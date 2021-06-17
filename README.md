@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saniul Islam, i am a software engineer
+- 👋 Hi, I’m Saniul Islam, i am a full stack web developer
 - 👀 I’m interested in Javascript & my favorite tech stack is MERN STACK
 - 🌱 I’m currently learning AWS & Serverless Computing
 - 💞️ I’m looking to collaborate on latest Web & Mobile technologies
